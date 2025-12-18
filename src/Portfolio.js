@@ -111,10 +111,10 @@ const Portfolio = ({ setCurrentPage }) => {
         </div>
 
         <div className="cv-buttons">
-          <a href="/Abdallah_Thuieb_CV.pdf" download className="cv-button">
+          <a href="/Abdallah_CV.pdf" download className="cv-button">
             📥 Download CV
           </a>
-          <a href="/Abdallah_Thuieb_CV.pdf" target="_blank" rel="noopener noreferrer" className="cv-button view-button">
+          <a href="/Abdallah_CV.pdf" target="_blank" rel="noopener noreferrer" className="cv-button view-button">
             👁️ View CV
           </a>
         </div>
