@@ -1,3 +1,3 @@
-Portfolio: abdallahthweib.vercel.app – Showcasing projects, skills, and web development work.
+[Portfolio](https://abdallahthweib.vercel.app) – Showcasing projects, skills, and web development work.
 
 Abdallah Thuieb is an AI/ML Engineer and Full-Stack Developer focused on building practical, scalable software that bridges data and production systems. This portfolio highlights selected projects in machine learning, web development, and software engineering—covering model development, data pipelines, backend services, and modern frontend experiences. It also includes a snapshot of professional experience, core technical skills, and tools used across the stack, with direct links to GitHub and LinkedIn for deeper technical details. If you’re looking for someone who can prototype quickly, ship clean solutions, and iterate based on real product needs, explore the projects and feel free to reach out via email.
